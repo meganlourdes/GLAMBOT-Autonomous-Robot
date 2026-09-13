@@ -199,8 +199,13 @@ I worked on:
 
 ---
 
-## Course Project Notice
+## Team
 
-This project was developed for **EE31: Junior Design at Tufts University**.
+GLAMBot was developed as a team project for EE31: Junior Design at Tufts University.
+
+- Megan Best
+- Lloyd Walter
+- Andrew Liu
+- Gabe Lerner
 
 To maintain academic integrity, the source code and complete implementation are intentionally not publicly available.
