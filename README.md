@@ -1,5 +1,7 @@
 # GLAMBot 🤖
 
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/7dff035f-3396-4be2-908a-cbdfa1b4a70a" />
+
 An autonomous mobile robot designed and built for **EE31: Junior Design** at Tufts University.
 
 GLAMBot was developed as a semester-long team project involving embedded programming, sensor integration, motor control, wireless communication, mechanical design, and autonomous navigation.
